@@ -1,2 +1,1 @@
-# Hello-mir
-Это мое будущее
+# Hello-world
